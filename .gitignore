@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/src/.vs/DevBoost.PadraoDeProjeto
+*.suo
+/src/DevBoost.PadraoDeProjeto/DevBoost.PadraoDeProjeto.API/bin/Debug/netcoreapp3.1
+/src/DevBoost.PadraoDeProjeto/DevBoost.PadraoDeProjeto.API/obj
