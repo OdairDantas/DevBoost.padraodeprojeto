@@ -45,7 +45,7 @@ namespace DevBoost.PadraoDeProjeto.API
 
             app.UseAuthorization();
             app.UseSwagger();
-            app.UseSwaggerUI(c => { c.SwaggerEndpoint(url: "/swagger/v1/swagger.json", name: "ORM"); });
+            app.UseSwaggerUI(c => { c.SwaggerEndpoint(url: "/swagger/v1/swagger.json", name: "Padroes de Projetos"); });
 
             app.UseEndpoints(endpoints =>
             {
