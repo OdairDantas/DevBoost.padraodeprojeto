@@ -1,0 +1,31 @@
+* MVP, MVC e MVVM
+	
+	1-) Qual o ciclo de vida de uma página MVC?
+	2-) Existem uma certa similaridade entre esses padrões MVC e MVP, mas conforme pesquisa existe uma desvantagem em utuilizar o MVP qual seria?
+	3-) É correto dizer que no MVC o Controlador lança eventos, indicando mudanças para a View?
+	4-) No padrão MVC é possivel compartilhar informações entre controllers 
+	5-) Você pode explicar as diferentes vantagens do MVC brevemente
+
+ 
+ * CQRS 
+  
+  1 -) Quais são as estratégia para manter as bases de leitura e gravação sincronizadas e qual a menos recomendada? 
+  2 -) Para que serve um event-bus no modelo CQRS
+  3 -) Como são tratados os conflitos de concorrência no disparo de eventos ao persistir os dados no banco de dados?
+  4 -) Diz que se deve separar as responsabilidades em escrita e leitura, qual a vantagem de separar as responsabilidades por comandos de escrita e leitura?
+  5 -) É correto afirmar que o CQRS requer obrigatoriamente uma consistência eventual ou o CQRS pode trabalhar com uma consistência imediata e síncrona?
+
+
+
+ * DDD
+	1 -) De acordo com os padrões de DDD, ao se escrever um novo sistema para também interagir com um sistema 
+	legado (considerado um código de difícil manutenção), cria-se uma camada entre os dois sistemas denominada camada anticorrupção?
+
+	2-) como definir a relação dos bounded context e quais são?
+	3-) Como que os bounded contexts se comunicam?
+	4-) O que são os agregados?
+	5-) Como é estruturado o padrão DDD em um projeto de WEB API
+	6-) Quando trabalhamos com DDD, o que significa dizer que o mdelo deve ser "rico"?
+
+
+
